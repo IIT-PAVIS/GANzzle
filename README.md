@@ -2,7 +2,7 @@
 
 Have a look at our paper on [Arxiv](https://arxiv.org/abs/2207.05634).
 
-This repository contains Jigsaw puzzle data used for Ganzzle.
+We will publish the PuzzleCelebA and PuzzleWikiArts soon.
 
 
 To cite this paper:
