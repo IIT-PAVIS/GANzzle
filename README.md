@@ -2,7 +2,7 @@
 
 Have a look at our paper on [Arxiv](https://arxiv.org/abs/2207.05634).
 
-We will publish the PuzzleCelebA and PuzzleWikiArts soon.
+We will publish PuzzleCelebA and PuzzleWikiArts soon.
 
 
 To cite this paper:
