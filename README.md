@@ -2,7 +2,7 @@
 
 Have a look at our paper on [Arxiv](https://arxiv.org/abs/2207.05634).
 
-PuzzleCelebA and PuzzleWikiArts metadata for test is available.
+[PuzzleCelebA](puzzlecelebahq-test-metadata.txt) and [PuzzleWikiArts](puzzlewikiart-test-metadata.txt) metadata for test is available.
 Each row contain a sample in the test dataset:
 - image_file
 - number of pieces per edge
