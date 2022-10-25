@@ -2,7 +2,17 @@
 
 Have a look at our paper on [Arxiv](https://arxiv.org/abs/2207.05634).
 
-We will publish PuzzleCelebA and PuzzleWikiArts soon.
+PuzzleCelebA and PuzzleWikiArts metadata for test is available.
+Each row contain a sample in the test dataset:
+- image_file
+- number of pieces per edge
+- permutation of pieces
+
+For instance, consider the sample:
+```
+29522.jpg,2,[2, 3, 1, 0]
+```
+the file associated to the sample is `29522.jpg` and it is chunked into 2 x 2 pieces with permutation `[2, 3, 1, 0]`.
 
 
 To cite this paper:
